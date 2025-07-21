@@ -69,5 +69,5 @@ Then, finally, I added some silkscreen art and some advanced solder mask and rou
 <img width="2160" height="1710" alt="PCB 3D Top" src="https://github.com/user-attachments/assets/ddc55475-9b6d-4600-b5af-0f99aff81550" />
 <img width="2160" height="1623" alt="PCB 3D Bottom" src="https://github.com/user-attachments/assets/e99f5554-6c79-4d0d-84b7-76a6a579660f" />
 
-
+**Total time spent: 4.5 hours**
 
