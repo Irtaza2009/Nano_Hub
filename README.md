@@ -28,3 +28,10 @@ All the 3d printed parts and PCB custom-made by me!!
 | USB-A Port USB-231-ARY           | 2        | C720525         | 0.66        | [Link](https://lcsc.com/product-detail/USB-Connectors_XUNPU-USB-231-ARY_C720525.html)                                            |
 | USB-C Port TYPE-C-31-M-12        | 3        | C165948         | 0.87        | [Link](https://lcsc.com/product-detail/USB-Connectors_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html)                          |
 | 12MHz Crystal X322512MSB4SI      | 1        | C9002           | 0.66        | [Link](https://lcsc.com/product-detail/Crystals_YXC-Crystal-Oscillators-X322512MSB4SI_C9002.html)                                |
+| PCB                              | 5        | JLCPCB          | 2.00        | N/A                                         |
+| PCBA                             | 5        | JLCPCB          | 40.00      | N/A                                         |
+| Shipping                         | 5        | JLCPCB          | 25.00        | N/A                                         |
+
+Subtotal (excluding PCBA): US$25
+
+Estimated cost (PCBA, including parts and PCB): US$50 (with a coupon!)
