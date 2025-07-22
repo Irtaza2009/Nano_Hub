@@ -1,0 +1,13 @@
+BOM_Board1_PCB1_2025-07-22
+No.,Quantity,Comment,Designator,Footprint,Value,Manufacturer Part,Manufacturer,Supplier Part,Supplier,Price ($),Link
+1,2,10uF,"C1,C2",C0603,10uF,CL10A106MA8NRNC,SAMSUNG(三星),C96446,LCSC,0.19,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10A106MA8NRNC_C96446.html?s_z=n_C96446
+2,5,100nF,"C3,C4,C5,C6,C7",C0603,100nF,CC0603KRX7R9BB104,YAGEO(国巨),C14663,LCSC,0.24,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0603KRX7R9BB104_C14663.html?s_z=n_C14663
+3,1,CD1206-B2100,D2,DIO-SMD_L3.4-W1.9-RD,,CD1206-B2100,BOURNS,C143805,LCSC,0.32,https://lcsc.com/product-detail/Schottky-Diodes_BOURNS-CD1206-B2100_C143805.html?s_z=n_C143805
+4,1,A-SP192DGHC-C01-4T,LED1,LED0603-FD,,A-SP192DGHC-C01-4T,Amicc(欧密格光电),C19171301,LCSC,0.45,https://lcsc.com/product-detail/LED-Indication-Discrete_Amicc-A-SP192DGHC-C01-4T_C19171301.html?s_z=n_C19171301
+5,4,56kΩ,"R1,R2,R3,R4",R0603,56kΩ,0603WAF5602T5E,UNI-ROYAL(厚声),C23206,LCSC,0.12,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-0603WAF5602T5E_C23206.html?s_z=n_C23206
+6,2,5.1kΩ,"R5,R6",R0603,5.1kΩ,0603WAF5101T5E,UNI-ROYAL(厚声),C23186,LCSC,0.11,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-0603WAF5101T5E_C23186.html?s_z=n_C23186
+7,1,100Ω,R7,R0603,100Ω,0603WAF1000T5E,UNI-ROYAL(厚声),C22775,LCSC,0.11,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-0603WAF1000T5E_C22775.html?s_z=n_C22775
+8,1,SL2.1A,U1,SOP-16_L10.0-W3.9-P1.27-LS6.0-BL,,SL2.1A,CoreChips(和芯润德),C192893,LCSC,1.31,https://lcsc.com/product-detail/USB-HUB-Controllers_CoreChips-SL2-1A_C192893.html?s_z=n_C192893
+9,2,USB-231-ARY,"USB1,USB2",USB-A-TH_USB-231-ARY,,USB-231-ARY,XUNPU(讯普),C720525,LCSC,0.66,https://lcsc.com/product-detail/USB-Connectors_XUNPU-USB-231-ARY_C720525.html?s_z=n_C720525
+10,3,TYPE-C-31-M-12,"USBC1,USBC2,USBC3",USB-C_SMD-TYPE-C-31-M-12,,TYPE-C-31-M-12,韩国韩荣,C165948,LCSC,0.87,https://lcsc.com/product-detail/USB-Connectors_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html?s_z=n_C165948
+11,1,12MHz,X1,CRYSTAL-SMD_4P-L3.2-W2.5-BL,12MHz,X322512MSB4SI,YXC(扬兴晶振),C9002,LCSC,0.66,https://lcsc.com/product-detail/Crystals_YXC-Crystal-Oscillators-X322512MSB4SI_C9002.html?s_z=n_C9002
