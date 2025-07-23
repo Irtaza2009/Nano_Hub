@@ -5,6 +5,8 @@ description: "A custom tiny USB hub for iPad/mobile!"
 created_at: "2025-06-11"
 ---
 
+### Total Time Spent: ~14 hours!!
+
 ### June 11th: Started working on the schematic!
 Opened up KiCAD and, after looking through some online references, like the onboard guide, started to place components. 
 <img width="615" alt="KiCAD Schematic)" src="https://github.com/user-attachments/assets/f658ad03-0794-460a-aa73-2aa2310874b4" />
@@ -70,4 +72,21 @@ Then, finally, I added some silkscreen art and some advanced solder mask and rou
 <img width="2160" height="1623" alt="PCB 3D Bottom" src="https://github.com/user-attachments/assets/e99f5554-6c79-4d0d-84b7-76a6a579660f" />
 
 **Total time spent: 4.5 hours**
+
+### July 23rd: Completed CAD + BOM + Submission
+
+Opened up Shapr3d on my iPad and started to make a case for the Nano Hub! I first exported the PCB from EasyEDA as .step and imported that. Then, I sketched an outline around it, offset it, and extruded the shape. After that, I created the sides and the top plate.
+Then I made holes in the sides for the USB slots, and also added supports/spacers to the bottom and top plates!
+
+And I also added "Nano Hub" text engraving onto the top plate!
+
+Exported the files as .3mf (because Shapr3d only allows that in the free version :( ), and converted them to .step!
+
+<img width="1222" height="647" alt="IMG_0663 (1)" src="https://github.com/user-attachments/assets/3a51e89d-cb60-42cc-a474-a94fdb4aa8a2" />
+<img width="1212" height="936" alt="IMG_0662 (1)" src="https://github.com/user-attachments/assets/bd038ab2-52dc-44e2-9838-c6161cc29265" />
+
+Then went back to EasyEDA, and did device standardization, and exported all the production files!
+And edited the BOM to include all the prices and links!
+
+**Total time spent: 5.5 hours**
 
