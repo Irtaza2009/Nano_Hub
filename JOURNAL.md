@@ -5,7 +5,7 @@ description: "A custom tiny USB hub for iPad/mobile!"
 created_at: "2025-06-11"
 ---
 
-### Total Time Spent: ~14 hours!!
+### Total Time Spent: ~16 hours!!
 
 ### June 11th: Started working on the schematic!
 Opened up KiCAD and, after looking through some online references, like the onboard guide, started to place components. 
@@ -85,8 +85,21 @@ Exported the files as .3mf (because Shapr3d only allows that in the free version
 <img width="1222" height="647" alt="IMG_0663 (1)" src="https://github.com/user-attachments/assets/3a51e89d-cb60-42cc-a474-a94fdb4aa8a2" />
 <img width="1212" height="936" alt="IMG_0662 (1)" src="https://github.com/user-attachments/assets/bd038ab2-52dc-44e2-9838-c6161cc29265" />
 
-Then went back to EasyEDA, and did device standardization, and exported all the production files!
+Then went back to EasyEDA, and did device standardisation, and exported all the production files!
 And edited the BOM to include all the prices and links!
 
 **Total time spent: 5.5 hours**
+
+### July 24th: Updated schematic + PCB after feedback
+
+Got some valuable feedback from a fellow hackclubber (@Rudy)! I had placed the decoupling capacitors in the wrong place, and my D+ and D- traces were not differentially routed! Fixed that! And also added 15pF resistors to the crystal!
+
+<img width="595" height="422" alt="SCH_Schematic1_1-P1_2025-07-24" src="https://github.com/user-attachments/assets/2623e584-b615-45b0-a941-4881eb8d0d47" />
+<br>
+<img width="395" height="320" alt="" src="https://github.com/user-attachments/assets/3f116e1f-c2d0-48be-9df4-b23068c08c57" />
+
+<img width="395" height="320" alt="" src="https://github.com/user-attachments/assets/62d492b5-ef5d-44ce-8f10-a5779c01bd4e" />
+
+**Total time spent: 1.5 hours**
+
 
