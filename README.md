@@ -2,8 +2,10 @@
 
 ![](https://github.com/user-attachments/assets/bb9d7b5b-cb39-45dc-b019-447e19ef3de9)
 
-A custom USB hub with 3 USB C and 2 USB A slots, and LEDs and no wires! In a really small form factor that could easily be magnetically attached to any phone or iPad!
+A custom USB hub with 3 USB C and 2 USB A slots, and LEDs! And it's cube-shaped, and small!!
+It uses the SL2.1A hub controller, and you connect to it through the USB-C port!!
 All the 3d printed parts and PCB custom-made by me!!
+
 
 ## Preview
 
